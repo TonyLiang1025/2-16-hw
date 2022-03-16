@@ -1,0 +1,33 @@
+table {
+  background-color: antiquewhite;
+  width: 50%;
+  font-family: arial, sans-serif;
+}
+
+table,
+td,
+th {
+  text-align: center;
+  padding: 8px;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.header {
+  background-color: rgb(78, 179, 130);
+}
+
+#John,
+#Josh {
+  background-color: darkcyan;
+}
+
+#searchBar {
+  border: 1px solid lightgray;
+  width: 700px;
+  height: 30px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
